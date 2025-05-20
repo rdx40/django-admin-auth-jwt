@@ -7,9 +7,8 @@ cd <your-repo-name>
 
 ## 2. Setup the virtual environment
 
-# Using venv
-
-# OR using conda
+Using venv
+OR using conda
 
 ## 3. Install Dependencies
 
