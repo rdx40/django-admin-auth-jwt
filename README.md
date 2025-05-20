@@ -1,8 +1,8 @@
 ## 1. Clone the Repo
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/rdx40/django-admin-auth-jwt.git
+cd https://github.com/rdx40/django-admin-auth-jwt.git
 ```
 
 ## 2. Setup the virtual environment
