@@ -1,4 +1,4 @@
-# PS: Do check out the docker branch for a dockerized version of the above
+#### PS: Do check out the docker branch for a dockerized version of the same
 
 ## 1. Clone the Repo
 
