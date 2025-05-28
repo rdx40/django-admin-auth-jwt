@@ -1,3 +1,5 @@
+# PS: Do check out the docker branch for a dockerized version of the above
+
 ## 1. Clone the Repo
 
 ```bash
@@ -190,5 +192,3 @@ curl -X POST http://localhost:8000/api/auth/login/ \
 - Session Timeout
 
 - Encryption in Transit
-
-# PS: Do check out the docker branch for a dockerized version of the above
