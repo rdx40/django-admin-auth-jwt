@@ -2,6 +2,7 @@ name: docker_build_push_acr
  
 on:
   workflow_dispatch:
+    docker
  
 jobs:
   docker_build_push_acr:
